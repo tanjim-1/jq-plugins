@@ -1,0 +1,10 @@
+body {
+  /* overflow: hidden; */
+}
+.box {
+  min-height: 100px;
+  margin: 0 200px;
+}
+.daisy {
+  height: 700px;
+}
